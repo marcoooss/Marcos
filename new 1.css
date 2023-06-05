@@ -1,0 +1,25 @@
+h2{
+	font-size: 30px
+}
+table{
+	border-collapse: collapse
+}
+table,td{
+	border: solid 1px black
+}
+a:link{
+	color:blue
+}
+a:visited{
+	color:purple
+}
+body {
+  height: 400px;
+  background-image: url("EstadioSantiagoBernabeu.png");
+background-size: cover;
+  background-repeat: repeat-y;
+  background-position: center center;
+}
+.un{
+	text-decoration: underline;
+}
